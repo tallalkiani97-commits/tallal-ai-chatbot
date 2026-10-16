@@ -1,0 +1,7 @@
+{
+  "name": "tallal-ai-chatbot",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Secure multi-model AI chatbot with OpenAI, Claude, Gemini and Perplexity adapters",
+  "scripts": {"dev":"vercel dev"}
+}
